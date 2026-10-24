@@ -70,12 +70,12 @@
   </ParamTree>
   <ParamUnitPool>
     <ParamUnit param_id="0">
-      <Param name="dl_gain" value="22,19,16,13,10,7,4,0,0,0,0"/>
+      <Param name="dl_gain" value="10,7,4,1,0,0,0,0,0,0,0"/>
       <Param name="ul_gain" value="23"/>
       <Param name="stf_gain" value="0"/>
     </ParamUnit>
     <ParamUnit param_id="1">
-      <Param name="dl_gain" value="22,19,16,13,10,7,4,0,0,0,0"/>
+      <Param name="dl_gain" value="10,7,4,1,0,0,0,0,0,0,0"/>
       <Param name="ul_gain" value="0"/>
       <Param name="stf_gain" value="0"/>
     </ParamUnit>
@@ -135,7 +135,7 @@
       <Param name="stf_gain" value="0"/>
     </ParamUnit>
     <ParamUnit param_id="26">
-      <Param name="dl_gain" value="26,24,22,20,18,16,14,12,10,8,6"/>
+      <Param name="dl_gain" value="14,12,10,8,6,4,2,0,0,0,0"/>
       <Param name="ul_gain" value="17"/>
       <Param name="stf_gain" value="0"/>
     </ParamUnit>
@@ -185,7 +185,7 @@
       <Param name="stf_gain" value="0"/>
     </ParamUnit>
     <ParamUnit param_id="31">
-      <Param name="dl_gain" value="27,24,22,20,18,16,14,12,10,7,4"/>
+      <Param name="dl_gain" value="15,12,10,8,6,4,2,0,0,0,0"/>
       <Param name="ul_gain" value="18"/>
       <Param name="stf_gain" value="0"/>
     </ParamUnit>
@@ -205,7 +205,7 @@
       <Param name="stf_gain" value="0"/>
     </ParamUnit>
     <ParamUnit param_id="11">
-      <Param name="dl_gain" value="26,24,22,20,18,15,12,9,6,3,0"/>
+      <Param name="dl_gain" value="14,12,10,8,6,3,0,0,0,0,0"/>
       <Param name="ul_gain" value="19"/>
       <Param name="stf_gain" value="0"/>
     </ParamUnit>
